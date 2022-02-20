@@ -12,7 +12,6 @@
     }
   }
   &__checkbox {
-    // display: none;
     appearance: none;
     &:checked + .switcher__slider {
       background-color: $brand_color2;
